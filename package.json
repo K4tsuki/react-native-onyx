@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "ascii-table": "0.0.9",
-    "expensify-common": "git+https://github.com/K4tsuki/expensify-common.git#c29b7c52b0ddd8d46897c307cba6d2e20229045d",
+    "expensify-common": "git+https://github.com/K4tsuki/expensify-common.git#9e051e5e3a695d4190b9a41035b2cf9bcae226fe",
     "lodash": "4.17.21",
     "underscore": "^1.13.1"
   },
